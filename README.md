@@ -19,7 +19,7 @@ This is my personal portfolio website created using a single HTML file with embe
 - JavaScript
 
 ## Live Website
-https://yourusername.github.io/your-repo-name/
+https://genyuub.github.io/gen-portfolio/)
 
 ## Purpose
 This portfolio will be continuously updated as I improve my skills and create more projects.
